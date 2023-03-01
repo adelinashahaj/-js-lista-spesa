@@ -1,1 +1,1 @@
-# -js-lista-spesa
+# js-lista-spesa
